@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Corgevity
 - 👀 I’m interested in ... Information Security
 - 🌱 I’m currently creating some ... epic software
-- 💞️ I’m looking to collaborate on ... Information Protection Detection Response and Recovery methodologies
+- 💞️ I’m looking to collaborate on ... cool dev stuff
 - 📫 How to reach me ... support@corgevity.com
 
 <!---
